@@ -21,7 +21,7 @@ This is a Telegram bot that integrates multiple AI clients (OpenAI and MistralAI
 ## How to Run the Bot
 
 1. **Clone the Repository:**
-   `git clone https://github.com/your-repo/telegram-ai-bot.gitcd telegram-ai-bot`
+   `git clone https://github.com/PoojaMaheshGori/telegram-ai-bot.git`
 2. **Install Dependencies:** Use `pip` to install the required packages: `pip install -r requirements.txt`
 3. **Set Up Environment Variables:**
    Create a `.env` file in the project directory with the following content:
